@@ -1,0 +1,10 @@
+paho-mqtt==1.6.1
+gpiozero==1.6.2
+requests==2.28.2
+psutil==5.9.4
+pyserial==3.5
+Adafruit_DHT==1.4.0
+flask==2.2.3
+numpy==1.24.2
+pandas==2.1.1
+twilio==7.17.0
